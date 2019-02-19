@@ -2,6 +2,9 @@ package com.example.thread;
 
 import jdk.nashorn.internal.objects.annotations.Getter;
 
+/**
+ * @author Lxy
+ */
 public enum CountDownLatchEnum {
     ONE(1,"齐国"),TWO(2,"楚国"),THREE(3,"燕国"),FOUR(4,"赵国"),FIVE(5,"魏国"),SIX(6,"韩国"),SEVEN(7,"秦国");
 
