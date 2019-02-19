@@ -5,6 +5,10 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.CopyOnWriteArraySet;
 
+/**
+ * @author Lxy
+ * 测试集合中那些是安全的
+ */
 public class NotSafeDemo {
 
     public static void main(String[] args) {
