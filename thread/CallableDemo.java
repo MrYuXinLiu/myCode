@@ -5,7 +5,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
 /**
- *
+ *@author Lxy
  * 多线程第一种方法：
  * extends thread;
  * 多线程第二种方法：
