@@ -4,6 +4,7 @@ package com.example.thread;
 import java.util.concurrent.CountDownLatch;
 
 /**
+ * @author Lxy
  * JUC中的方法之-CountDownLatch (倒数计数器)
  * 当设置的数量下降为零时才启动main后面的方法
  */
