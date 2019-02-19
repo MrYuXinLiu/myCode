@@ -3,6 +3,11 @@ package com.example.thread;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+/**
+ * @author Lxy;
+ * 简单的多线程售票系统
+ *
+ */
 public class Test {
 
 
