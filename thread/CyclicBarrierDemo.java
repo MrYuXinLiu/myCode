@@ -4,6 +4,7 @@ import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 
 /**
+ * @author Lxy
  * juc 中的第二個工具 CyclicBarrier (循环屏障)
  */
 public class CyclicBarrierDemo {
