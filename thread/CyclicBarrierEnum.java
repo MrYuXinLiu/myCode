@@ -1,5 +1,8 @@
 package com.example.thread;
 
+/**
+ * @author Lxy
+ */
 public enum  CyclicBarrierEnum {
     ONE(1,"大娃"),TWO(2,"二娃"),THREE(3,"三娃"),FOUR(4,"四娃"),FIVE(5,"五娃"),SIX(6,"六娃"),SEVEN(7,"七娃")  ;
 
