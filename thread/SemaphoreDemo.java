@@ -4,6 +4,8 @@ import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * @author Lxy
+ *
  * juc 中的第三个工具   semaphore （信号灯）
  * 简称就是多份资源被多个线程疯抢
  */
