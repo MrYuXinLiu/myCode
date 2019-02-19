@@ -5,7 +5,8 @@ import ch.qos.logback.core.util.TimeUtil;
 import java.util.concurrent.TimeUnit;
 
 /**
- * * 题目：多线程8锁
+ * @author Lxy
+ *  题目：多线程8锁
  * 1 一般访问，请问先打印短信还是邮件？  *随机
  * 2 短信暂停4秒钟，请问先打印短信还是邮件？ *短信
  * 3 新增普通开机方法， 请问先打印短信还是开机？*开机
